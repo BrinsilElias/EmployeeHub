@@ -1,4 +1,4 @@
-# User Hub
+# Employee Hub
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About the Project
 
- User Hub provides a comprehensive dashboard that enables effective tracking and management of employees. The dashboard will have separate logins for admin and non admin user, each with different levels of access and control.
+ Employee Hub provides a comprehensive dashboard that enables effective tracking and management of employees. The dashboard will have separate logins for admin and non admin user, each with different levels of access and control.
 
 ![Screenshot of Application](./UserHub.png)
 
